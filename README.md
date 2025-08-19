@@ -35,4 +35,4 @@ Responsive Breakpoints
 - Desktop: > 1024px (full responsive grid)
 
 How to Run the Project
-Using this link will transport you to the webpage: 
+Using this link will transport you to the webpage: https://belajar-linked-in-case-assessment.vercel.app
